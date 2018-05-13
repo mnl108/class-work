@@ -1,0 +1,5 @@
+>>> celsius=input ('Convert Celsius temperature to Fahrenheit: ')
+Convert Celsius temperature to Fahrenheit: 108
+>>> fahrenheit = (int(celsius)*9)/5+32
+>>> print(fahrenheit)
+226.4
